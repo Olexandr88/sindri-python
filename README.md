@@ -4,7 +4,7 @@
 
 ## Build Status
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/sindri-labs/sindri-python/build-publish-pypi.yml?style=for-the-badge)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/sindri-labs/sindri-python/build-publish-pypi.yml?style=for-the-badge)](https://github.com/Sindri-Labs/sindri-python/actions)
 
 ## Description
 The Sindri Python SDK.
